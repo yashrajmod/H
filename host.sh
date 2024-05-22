@@ -122,7 +122,7 @@ ${CR} [${CW}~${CR}]${CY} Created By @yashrajmod1 ${CG}(${CC}@yashrajmod1${CG})${
 }
 
 path(){
-	printf "\n${RS} ${CR}[${CW}1${CR}]${CY} Use Current Path [host/htdocs]"
+	printf "\n${RS} ${CR}[${CW}1${CR}]${CY} Use Current Path [/storage/emulated/0/htdocs]"
 	printf "\n${RS} ${CR}[${CW}2${CR}]${CY} Setup a Path"
 	printf "\n${RS}"
 	printf "\n${RS} ${CR}[${CW}-${CR}]${CG} Select A Hosting option: ${CC}"
